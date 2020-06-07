@@ -10,10 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/HelloWorld.java" afterDir="false" />
-    </list>
+    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,7 +80,14 @@
       <recent name="$PROJECT_DIR$/day06/src/com/amao/demo09_StringBuilder的构造方法" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.HelloWorld">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="day07" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.amao.demo06_String转换方法.Test" />
       <module name="day06" />
@@ -145,6 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (2)" />
@@ -187,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591499179730</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java基础知识 2020.6.7">
+      <created>1591499780384</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591499780384</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +240,7 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java基础知识" />
@@ -248,10 +261,10 @@
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591273464817" />
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1591442380662" />
     <state x="590" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1591182687037" />
-    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591499179401">
+    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591499780275">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591499179401" />
+    <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591499780275" />
     <state width="1628" height="209" key="GridCell.Tab.0.bottom" timestamp="1591498847315">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
@@ -298,6 +311,10 @@
     <state x="224" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1591250854656" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591498805390" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591498395680" />
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2" timestamp="1591500248049">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500248049" />
     <state x="577" y="272" key="chooseDestDirectoryDialog" timestamp="1591267690446">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
@@ -306,10 +323,10 @@
       <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state x="327" y="44" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1680.958@0.23.1680.958" timestamp="1591441470991" />
-    <state x="607" y="710" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591499141029">
+    <state x="607" y="710" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591499770807">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="607" y="710" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.954@0.23.1680.954" timestamp="1591499141029" />
+    <state x="607" y="710" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.954@0.23.1680.954" timestamp="1591499770807" />
     <state x="497" y="205" width="746" height="592" key="find.popup" timestamp="1591424075076">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
