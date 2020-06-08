@@ -4,6 +4,7 @@ public class Test {
     public static void main(String[] args) {
         /*
             String 类:
+                  多个字符组成的一个序列，叫字符串。
                   概述:String类代表字符串。 Java程序中的所有字符串文字（例如"abc" ）都被实现为此类的实例。都是String的对象
             String类的使用
                 public String();                作用:初始化新创建的 String对象，使其表示空字符序列。
@@ -33,6 +34,20 @@ public class Test {
                 String s2="abc"+"bcd";  存在常量池
                 String s3=s1+"bcd";     存在堆内存
 
+            面试题:
+                A:请问String s = new String("hello");创建了几个对象。
+		            两个。一个"hello"字符串对象，在方法区的常量池；一个s对象，在栈内存。
+
+		       B:请写出下面的结果
+			        String s1 = new String("abc");
+			        Strign s2 = new String("abc");
+			        String s3 = "abc";
+			        String s4 = "abc";
+			        sop(s1==s2);  //false
+			        sop(s1==s3);  //false
+			        sop(s3==s4);  //true
+		       C:字符串对象一旦被创建就不能被改变。
+			        指的是字符串常量值不改变。
 
 ------------------------------------------------------------------------------------------------------------------
         String的判断方法:
@@ -70,14 +85,15 @@ public class Test {
 ---------------------------------------------------------------------------------------------------------------
 
             StringBuilder 类
-                 概述: StringBuilder是一个可变的字符序列(俗称字符串)
+                 概述: StringBuilder是一个可变的字符序列(俗称字符串),字符串的缓冲区，是一个容器。
 
                  和String的区别:
                     1.String是不可变的,StringBuilder内容不是固定的,是可变的
 
-                 StringBuilder类的构造方法
-                    public StringBuilder(); 创建一个空内容的StringBuilder对象,
-                    public StringBuilder(String str); 创建一个指定内容的StringBuilder对象
+             构造方法
+                 StringBuffer() 构造一个其中不带字符的字符串缓冲区，初始容量为 16 个字符。
+		         StringBuffer(int num) 构造一个不带字符，但具有指定初始容量的字符串缓冲区。
+		         StringBuffer(String str) 构造一个字符串缓冲区，并将其内容初始化为指定的字符串内容。
 
                  StringBuilder类添加和反转方法
                     add,append
@@ -87,6 +103,12 @@ public class Test {
 
                     public String toString();  返回字符串
 
+            字符串和StringBuffer的转换
+		        String-->StringBuffer通过构造:
+			如:StringBuffer sb = new StringBuffer(String str)
+		    StringBuffer--String通过toString方法
+			    如:StringBuffer sb = new StringBuffer();
+			    sb.toString();
 
              */
     }

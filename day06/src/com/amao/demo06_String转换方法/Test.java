@@ -27,8 +27,8 @@ public class Test {
         System.out.println(f2);
 
         //将当前字符串中的指定字符串替换为新新字符串
-        String g1 = "ItAmaoJava";
-        String g2 = g1.replace("Java", "Python");
+        String g1 = "ItAmao{Java}";
+        String g2 = g1.replace("{}", "");
         System.out.println(g2);
 
     }
