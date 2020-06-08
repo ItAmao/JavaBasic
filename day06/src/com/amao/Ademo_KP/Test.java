@@ -83,7 +83,9 @@ public class Test {
                     add,append
                     public StringBuilder append(任意类型)  该方法返回当前对象本身,因此支持链式编程
 
-                    public reverse();
+                    public StringBuilder reverse(); 反转
+
+                    public String toString();  返回字符串
 
 
              */

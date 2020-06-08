@@ -10,7 +10,31 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="" />
+    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/Ademo_KP/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/com/amao/demo5_单个对象的内存图/2_单个对象的内存图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/com/amao/demo6_多个对象的内存图/3_多个对象的内存图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/com/amao/demo8_成员变量和局部变量的区别/5_成员变量和局部变量的区别.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/src/com/amao/demo3_set和get方法/01_set和get方法的执行.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day02/src/com/amao/demo4_this关键字/3_this内存原理.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/com/amao/demo1_复习类和对象/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/com/amao/demo1_复习类和对象/Test1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/com/amao/demo2_对象的内存图/01_对象的内存图.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day03/src/com/amao/demo3_继承的格式/02_继承的概述.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/Ademo_KP/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo02_String类的特点/TestStringDemo02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo03_String两种创建方式的区别/TestStringDemo03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo03_String两种创建方式的区别/image-20200606100130811.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo03_String两种创建方式的区别/image-20200606102928739.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo04_String判断方法/TestStringDemo04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo05_String获取方法/TestStringDemo05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo06_String转换方法/TestStringDemo06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo07_String分割和去空格方法/TestStringDemo07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/src/HelloWorld.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,7 +90,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -184,6 +208,11 @@
       <workItem from="1591447668522" duration="15000" />
       <workItem from="1591447904178" duration="351000" />
       <workItem from="1591497510923" duration="1725000" />
+      <workItem from="1591510597829" duration="488000" />
+      <workItem from="1591517763846" duration="130000" />
+      <workItem from="1591573120432" duration="119000" />
+      <workItem from="1591573302560" duration="1984000" />
+      <workItem from="1591576552559" duration="1967000" />
     </task>
     <task id="LOCAL-00001" summary="java基础知识 2020.6.7">
       <created>1591499179730</created>
@@ -199,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591499780384</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="java基础知识 2020.6.7">
+      <created>1591500311826</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591500311826</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,60 +297,67 @@
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591273464817" />
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1591442380662" />
     <state x="590" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1591182687037" />
-    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591499780275">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591500311713">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591499780275" />
-    <state width="1628" height="209" key="GridCell.Tab.0.bottom" timestamp="1591498847315">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.956@0.23.1680.956" timestamp="1591500311713" />
+    <state x="180" y="116" key="DiffContextDialog" timestamp="1591500404644">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="180" y="116" key="DiffContextDialog/0.23.1680.956@0.23.1680.956" timestamp="1591500404644" />
+    <state width="1628" height="199" key="GridCell.Tab.0.bottom" timestamp="1591502009793">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="231" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
-    <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1591444382763" />
+    <state width="1628" height="199" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1591502009793" />
     <state width="1628" height="209" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591498847315" />
-    <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591442803083" />
+    <state width="1628" height="209" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591500289345" />
     <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1591443409284" />
     <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1591442212342" />
     <state width="1628" height="157" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
-    <state width="1628" height="209" key="GridCell.Tab.0.center" timestamp="1591498847314">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="199" key="GridCell.Tab.0.center" timestamp="1591502009793">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="231" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
-    <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1591444382762" />
+    <state width="1628" height="199" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1591502009793" />
     <state width="1628" height="209" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1591498847314" />
-    <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591442803083" />
+    <state width="1628" height="209" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591500289344" />
     <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1591443409284" />
     <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
-    <state width="1628" height="209" key="GridCell.Tab.0.left" timestamp="1591498847313">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="199" key="GridCell.Tab.0.left" timestamp="1591502009792">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="231" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1591264050904" />
-    <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1591444382761" />
+    <state width="1628" height="199" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1591502009792" />
     <state width="1628" height="209" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1591498847313" />
-    <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591442803082" />
+    <state width="1628" height="209" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591500289343" />
     <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1591443409283" />
     <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1591442212340" />
     <state width="1628" height="157" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
-    <state width="1628" height="209" key="GridCell.Tab.0.right" timestamp="1591498847314">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="199" key="GridCell.Tab.0.right" timestamp="1591502009793">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="231" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
-    <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591444382762" />
+    <state width="1628" height="199" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591502009793" />
     <state width="1628" height="209" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1591498847314" />
-    <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591442803083" />
+    <state width="1628" height="209" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591500289344" />
     <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1591443409284" />
     <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
-    <state x="103" y="23" key="SettingsEditor" timestamp="1591498805390">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="103" y="23" key="SettingsEditor" timestamp="1591511024687">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="224" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1591250854656" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1591511024687" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591498805390" />
-    <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591498395680" />
-    <state x="352" y="188" key="Vcs.Push.Dialog.v2" timestamp="1591500248049">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591500390946" />
+    <state x="352" y="187" key="Vcs.Push.Dialog.v2" timestamp="1591511038731">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
-    <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500248049" />
+    <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1591511038731" />
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500411369" />
     <state x="577" y="272" key="chooseDestDirectoryDialog" timestamp="1591267690446">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
