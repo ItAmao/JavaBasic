@@ -11,36 +11,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day07/src/com/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo01_学生数组的实现/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo01_学生数组的实现/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo02_ArrayList类常用方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo03_ArrayList存储字符串并遍历/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo04_ArrayList存储字符串并遍历/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo05_ArrayList存储学生对象并遍历/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo05_ArrayList存储学生对象并遍历/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo06_ArrayList存储学生对象并遍历升级版/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo06_ArrayList存储学生对象并遍历升级版/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo06_ArrayList存储学生对象并遍历升级版/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo07_ArrayList存储基本数据类型/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo_homework/Test01/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo_homework/Test02/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day07/src/com/amao/demo_homework/Test02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo01_toString方法/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo01_toString方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo02_equals方法/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo02_equals方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo03_Date类构造方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo04_Date类成员方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo05_SimpDateFormat/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/CalendarDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/CalendarDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/CalendarDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo07_Math类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/SystemDemo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/SystemDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/SystemDemo03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo1/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo1/PhoneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo10/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo11/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo12/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo2/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo3/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo5/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo6/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo7/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo8/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo9/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/Ademo_KP/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/demo06_String转换方法/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06/src/com/amao/demo06_String转换方法/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/src/com/amao/Ademo_KP/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/Ademo_KP/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo02_String类的特点/TestStringDemo02.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo03_String两种创建方式的区别/TestStringDemo03.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo03_String两种创建方式的区别/image-20200606100130811.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo03_String两种创建方式的区别/image-20200606102928739.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo04_String判断方法/TestStringDemo04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo05_String获取方法/TestStringDemo05.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo06_String转换方法/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/amao/demo06_String转换方法/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo06_String转换方法/TestStringDemo06.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/demo07_String分割和去空格方法/TestStringDemo07.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day07/HelloWorld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day01/src/com/amao/Ademo_kp/Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/com/amao/Ademo_kp/Summary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/homework/demo06/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06/src/com/amao/homework/demo6/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day07/src/com/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/com/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day07/com/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day07/com/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day07/com/amao/Ademo_KP/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day07/com/amao/Ademo_KP/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day07/com/amao/demo07_ArrayList存储基本数据类型/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day07/com/amao/demo07_ArrayList存储基本数据类型/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,24 +110,27 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.amao.homework.demo2" />
+      <recent name="com.amao.homework.demo1" />
+      <recent name="com.amao.demo02_equals方法" />
       <recent name="com.amao.demo06_ArrayList存储学生对象并遍历升级版" />
       <recent name="com.amao.homeword.demo03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day08/src/com/amao/demo08_System类" />
+      <recent name="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类" />
       <recent name="$PROJECT_DIR$/day06/src/com/amao/demo03_String两种创建方式的区别" />
       <recent name="$PROJECT_DIR$/day06/src/com/amao/demo13_字符串拼接操作" />
       <recent name="$PROJECT_DIR$/day06/src/com/amao/demo11_StringBuilder反转操作" />
-      <recent name="$PROJECT_DIR$/day06/src/com/amao/demo10_StringBuilder添加操作" />
-      <recent name="$PROJECT_DIR$/day06/src/com/amao/demo09_StringBuilder的构造方法" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test01 (1)">
+  <component name="RunManager" selected="Application.Test (2)">
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo03_ArrayList存储字符串并遍历.Test" />
-      <module name="day07" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo6.Test" />
+      <module name="day08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo03_ArrayList存储字符串并遍历.*" />
+          <option name="PATTERN" value="com.amao.homework.demo6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,24 +139,11 @@
       </method>
     </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo05_ArrayList存储学生对象并遍历.Test" />
-      <module name="day07" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo8.Test" />
+      <module name="day08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo05_ArrayList存储学生对象并遍历.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo06_String转换方法.Test" />
-      <module name="day06" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.amao.demo06_String转换方法.*" />
+          <option name="PATTERN" value="com.amao.homework.demo8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +152,11 @@
       </method>
     </configuration>
     <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Test" />
-      <module name="day07" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo12.Test" />
+      <module name="day08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.*" />
+          <option name="PATTERN" value="com.amao.homework.demo12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +164,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test01 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo06_ArrayList存储学生对象并遍历升级版.Test01" />
-      <module name="day07" />
+    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo7.Test" />
+      <module name="day08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo06_ArrayList存储学生对象并遍历升级版.*" />
+          <option name="PATTERN" value="com.amao.homework.demo7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +178,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo02_ArrayList类常用方法.Test" />
-      <module name="day07" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo5.Test" />
+      <module name="day08" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo02_ArrayList类常用方法.*" />
+          <option name="PATTERN" value="com.amao.homework.demo5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,11 +192,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test01 (1)" />
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
         <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (5)" />
         <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,12 @@
       <workItem from="1591596170220" duration="1465000" />
       <workItem from="1591599083210" duration="5435000" />
       <workItem from="1591604558612" duration="2002000" />
-      <workItem from="1591606568230" duration="2787000" />
+      <workItem from="1591606568230" duration="2903000" />
+      <workItem from="1591609657230" duration="692000" />
+      <workItem from="1591611386662" duration="4417000" />
+      <workItem from="1591617779396" duration="236000" />
+      <workItem from="1591658341376" duration="13318000" />
+      <workItem from="1591682262111" duration="14435000" />
     </task>
     <task id="LOCAL-00001" summary="java基础知识 2020.6.7">
       <created>1591499179730</created>
@@ -267,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591578806393</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java基础知识 2020.6.8">
+      <created>1591609387486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591609387486</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,100 +335,110 @@
     <state x="230" y="23" key="#Project_Structure/0.23.1680.952@0.23.1680.952" timestamp="1591318166848" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.954@0.23.1680.954" timestamp="1591602049416" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1591404906442" />
-    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1591600208535">
+    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1591690967245">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952@0.23.1680.952" timestamp="1591579808043" />
-    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.954@0.23.1680.954" timestamp="1591600208535" />
+    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.954@0.23.1680.954" timestamp="1591690967245" />
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591273464817" />
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1591442380662" />
     <state x="590" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1591182687037" />
-    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591578806132">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591690871038">
+      <screen x="0" y="23" width="1680" height="954" />
+    </state>
+    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.954@0.23.1680.954" timestamp="1591690871038" />
+    <state x="605" y="23" key="CommitChangelistDialog2" timestamp="1591609387201">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1591578806132" />
-    <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591499780275" />
+    <state x="605" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591609387201" />
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.956@0.23.1680.956" timestamp="1591500311713" />
     <state x="180" y="116" key="DiffContextDialog" timestamp="1591500404644">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="180" y="116" key="DiffContextDialog/0.23.1680.956@0.23.1680.956" timestamp="1591500404644" />
-    <state width="1628" height="163" key="GridCell.Tab.0.bottom" timestamp="1591608555952">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="161" key="GridCell.Tab.0.bottom" timestamp="1591698173064">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state width="1628" height="231" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
-    <state width="1628" height="193" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1591584857855" />
-    <state width="1628" height="163" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591608555952" />
-    <state width="1628" height="290" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591607832229" />
+    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1591698173064" />
+    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1591695955987" />
+    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591697468994" />
+    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591697293032" />
     <state width="1628" height="115" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1591606255135" />
     <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1591442212342" />
     <state width="1628" height="157" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
-    <state width="1628" height="163" key="GridCell.Tab.0.center" timestamp="1591608555951">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="161" key="GridCell.Tab.0.center" timestamp="1591698173063">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state width="1628" height="231" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
-    <state width="1628" height="193" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1591584857854" />
-    <state width="1628" height="163" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1591608555951" />
-    <state width="1628" height="290" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591607832228" />
+    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1591698173063" />
+    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1591695955986" />
+    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1591697468993" />
+    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591697293031" />
     <state width="1628" height="115" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1591606255135" />
     <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
-    <state width="1628" height="163" key="GridCell.Tab.0.left" timestamp="1591608555950">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="161" key="GridCell.Tab.0.left" timestamp="1591698173063">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state width="1628" height="231" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1591264050904" />
-    <state width="1628" height="193" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1591584857853" />
-    <state width="1628" height="163" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1591608555950" />
-    <state width="1628" height="290" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591607832227" />
+    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1591698173063" />
+    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1591695955986" />
+    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1591697468993" />
+    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591697293031" />
     <state width="1628" height="115" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1591606255134" />
     <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1591442212340" />
     <state width="1628" height="157" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
-    <state width="1628" height="163" key="GridCell.Tab.0.right" timestamp="1591608555951">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state width="1628" height="161" key="GridCell.Tab.0.right" timestamp="1591698173064">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state width="1628" height="231" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1591264050905" />
-    <state width="1628" height="193" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591584857854" />
-    <state width="1628" height="163" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1591608555951" />
-    <state width="1628" height="290" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591607832229" />
+    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1591698173064" />
+    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591695955987" />
+    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1591697468994" />
+    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591697293032" />
     <state width="1628" height="115" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1591606255135" />
     <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
-    <state width="1628" height="290" key="GridCell.Tab.1.bottom" timestamp="1591607918013">
+    <state width="1628" height="290" key="GridCell.Tab.1.bottom" timestamp="1591616393280">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="290" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591607918013" />
+    <state width="1628" height="290" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591616393280" />
     <state width="1628" height="290" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591607832344" />
-    <state width="1628" height="290" key="GridCell.Tab.1.center" timestamp="1591607918012">
+    <state width="1628" height="290" key="GridCell.Tab.1.center" timestamp="1591616393279">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="290" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1591607918012" />
+    <state width="1628" height="290" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1591616393279" />
     <state width="1628" height="290" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1591607832343" />
-    <state width="1628" height="290" key="GridCell.Tab.1.left" timestamp="1591607918012">
+    <state width="1628" height="290" key="GridCell.Tab.1.left" timestamp="1591616393279">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="290" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1591607918012" />
+    <state width="1628" height="290" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1591616393279" />
     <state width="1628" height="290" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1591607832342" />
-    <state width="1628" height="290" key="GridCell.Tab.1.right" timestamp="1591607918012">
+    <state width="1628" height="290" key="GridCell.Tab.1.right" timestamp="1591616393279">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="290" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1591607918012" />
+    <state width="1628" height="290" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1591616393279" />
     <state width="1628" height="290" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1591607832344" />
-    <state x="755" y="141" key="RollbackChangesDialog" timestamp="1591604871205">
+    <state x="325" y="182" key="IDE.errors.dialog" timestamp="1591691995460">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.954@0.23.1680.954" timestamp="1591604871205" />
-    <state x="224" y="23" key="SettingsEditor" timestamp="1591578786588">
+    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.954@0.23.1680.954" timestamp="1591691995460" />
+    <state x="755" y="141" key="RollbackChangesDialog" timestamp="1591683666946">
       <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.950@0.23.1680.950" timestamp="1591683666946" />
+    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.954@0.23.1680.954" timestamp="1591604871205" />
+    <state x="103" y="23" key="SettingsEditor" timestamp="1591613031271">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="224" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1591578786588" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1591511024687" />
-    <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591498805390" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591613031271" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591500390946" />
-    <state x="352" y="187" key="Vcs.Push.Dialog.v2" timestamp="1591578868751">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2" timestamp="1591609394461">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1591578868751" />
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1591511038731" />
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1591609394461" />
     <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500411369" />
     <state x="577" y="272" key="chooseDestDirectoryDialog" timestamp="1591267690446">
       <screen x="0" y="23" width="1680" height="950" />
@@ -432,6 +453,10 @@
     </state>
     <state x="607" y="707" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.950@0.23.1680.950" timestamp="1591578821213" />
     <state x="607" y="710" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.954@0.23.1680.954" timestamp="1591499770807" />
+    <state width="513" height="438" key="documentation.popup.size" timestamp="1591686248322">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state width="513" height="438" key="documentation.popup.size/0.23.1680.950@0.23.1680.950" timestamp="1591686248322" />
     <state x="497" y="205" width="746" height="592" key="find.popup" timestamp="1591424075076">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
@@ -441,16 +466,16 @@
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="738" y="416" key="git4idea.ui.GitResetDialog/0.23.1680.954@0.23.1680.954" timestamp="1591498966348" />
-    <state x="36" y="23" key="new project wizard" timestamp="1591498803457">
+    <state x="36" y="23" key="new project wizard" timestamp="1591613029139">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="36" y="23" key="new project wizard/0.23.1680.954@0.23.1680.954" timestamp="1591498803457" />
+    <state x="36" y="23" key="new project wizard/0.23.1680.954@0.23.1680.954" timestamp="1591613029139" />
     <state x="36" y="23" key="new project wizard/0.23.1680.956@0.23.1680.956" timestamp="1591498393200" />
-    <state x="480" y="23" width="838" height="1030" key="search.everywhere.popup" timestamp="1591600186980">
+    <state x="480" y="23" width="838" height="1030" key="search.everywhere.popup" timestamp="1591690964042">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1591252600957" />
-    <state x="480" y="23" width="838" height="1030" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1591600186980" />
+    <state x="480" y="23" width="838" height="1030" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1591690964042" />
     <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1591272930866" />
     <state x="480" y="23" width="838" height="1035" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1591442369766" />
     <state x="480" y="23" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1591182709010" />

@@ -1,4 +1,4 @@
-package com.amao.homework.demo06;
+package com.amao.homework.demo6;
 
 import java.util.Scanner;
 
