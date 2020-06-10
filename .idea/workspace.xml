@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,45 +14,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo01_toString方法/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo01_toString方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo02_equals方法/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo02_equals方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo03_Date类构造方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo04_Date类成员方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo05_SimpDateFormat/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/CalendarDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/CalendarDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/CalendarDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo07_Math类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/SystemDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/SystemDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/SystemDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/demo08_System类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo1/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo1/PhoneTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo11/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo12/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo2/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo3/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo5/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo6/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo7/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo8/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day08/src/com/amao/homework/demo9/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo01_BigInteger构造方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo02_BigInteger成员方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo03_BigDecimal构造方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo04_BigDecimal成员方法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo05_Arrays类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo06_包装类/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo07_基本类型与字符串之间的转换/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo08_总结基本类型的使用/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo09_普通类作为方法参数和返回值/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo09_普通类作为方法参数和返回值/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo10_抽象类作为方法参数和返回值/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo10_抽象类作为方法参数和返回值/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo11_接口作为方法参数和返回值/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo11_接口作为方法参数和返回值/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo12_普通类作为成员变量/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo12_普通类作为成员变量/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo13_抽象类作为成员变量/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo13_抽象类作为成员变量/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo13_抽象类作为成员变量/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo14_接口作为成员变量/DoHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo14_接口作为成员变量/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo14_接口作为成员变量/StudentTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01/src/com/amao/Ademo_kp/Summary.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01/src/com/amao/Ademo_kp/Summary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day06/src/com/amao/homework/demo06/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day06/src/com/amao/homework/demo6/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day07/src/com/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day07/src/com/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day07/com/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day07/com/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day07/com/amao/Ademo_KP/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day07/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day07/com/amao/demo07_ArrayList存储基本数据类型/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day07/com/amao/demo07_ArrayList存储基本数据类型/Test.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,31 +97,70 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.amao.demo08_总结基本类型的使用" />
+      <recent name="com.amao.demo04_BigDecimal成员方法" />
+      <recent name="com.amao.demo02_BigInteger成员方法" />
       <recent name="com.amao.homework.demo2" />
       <recent name="com.amao.homework.demo1" />
-      <recent name="com.amao.demo02_equals方法" />
-      <recent name="com.amao.demo06_ArrayList存储学生对象并遍历升级版" />
-      <recent name="com.amao.homeword.demo03" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day09/src/com/amao" />
       <recent name="$PROJECT_DIR$/day08/src/com/amao/demo08_System类" />
       <recent name="$PROJECT_DIR$/day08/src/com/amao/demo06_Calendar类" />
       <recent name="$PROJECT_DIR$/day06/src/com/amao/demo03_String两种创建方式的区别" />
       <recent name="$PROJECT_DIR$/day06/src/com/amao/demo13_字符串拼接操作" />
-      <recent name="$PROJECT_DIR$/day06/src/com/amao/demo11_StringBuilder反转操作" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (2)">
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo6.Test" />
-      <module name="day08" />
+  <component name="RunManager" selected="Application.StudentTest">
+    <configuration name="StudentTest (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo10_抽象类作为方法参数和返回值.StudentTest" />
+      <module name="day09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.homework.demo6.*" />
+          <option name="PATTERN" value="com.amao.demo10_抽象类作为方法参数和返回值.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo12_普通类作为成员变量.StudentTest" />
+      <module name="day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amao.demo12_普通类作为成员变量.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo13_抽象类作为成员变量.StudentTest" />
+      <module name="day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amao.demo13_抽象类作为成员变量.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo14_接口作为成员变量.StudentTest" />
+      <module name="day09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amao.demo14_接口作为成员变量.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,50 +169,11 @@
       </method>
     </configuration>
     <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo8.Test" />
-      <module name="day08" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo11_接口作为方法参数和返回值.Test" />
+      <module name="day09" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.homework.demo8.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo12.Test" />
-      <module name="day08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.amao.homework.demo12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo7.Test" />
-      <module name="day08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.amao.homework.demo7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo5.Test" />
-      <module name="day08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.amao.homework.demo5.*" />
+          <option name="PATTERN" value="com.amao.demo11_接口作为方法参数和返回值.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentTest" />
+        <item itemvalue="Application.StudentTest (4)" />
+        <item itemvalue="Application.StudentTest (3)" />
         <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (5)" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.StudentTest (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -241,7 +232,13 @@
       <workItem from="1591611386662" duration="4417000" />
       <workItem from="1591617779396" duration="236000" />
       <workItem from="1591658341376" duration="13318000" />
-      <workItem from="1591682262111" duration="14435000" />
+      <workItem from="1591682262111" duration="15087000" />
+      <workItem from="1591699196316" duration="1000" />
+      <workItem from="1591703447940" duration="180000" />
+      <workItem from="1591749827264" duration="5599000" />
+      <workItem from="1591755914896" duration="3060000" />
+      <workItem from="1591759000296" duration="2554000" />
+      <workItem from="1591768868536" duration="10371000" />
     </task>
     <task id="LOCAL-00001" summary="java基础知识 2020.6.7">
       <created>1591499179730</created>
@@ -278,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591609387486</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="java基础知识 2020.6.9">
+      <created>1591698221745</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591698221745</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,76 +329,81 @@
     <MESSAGE value="java基础知识" />
     <MESSAGE value="java基础知识 2020.6.7" />
     <MESSAGE value="java基础知识 2020.6.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="java基础知识 2020.6.8" />
+    <MESSAGE value="java基础知识 2020.6.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="java基础知识 2020.6.9" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="230" y="23" key="#Project_Structure" timestamp="1591602049416">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="470" y="172" key="#Inspections" timestamp="1591774669503">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state x="230" y="23" key="#Project_Structure/0.23.1680.950@0.23.1680.950" timestamp="1591267713798" />
+    <state x="470" y="172" key="#Inspections/0.23.1680.956@0.23.1680.956" timestamp="1591774669503" />
+    <state x="230" y="23" key="#Project_Structure" timestamp="1591750932359">
+      <screen x="0" y="23" width="1680" height="950" />
+    </state>
+    <state x="230" y="23" key="#Project_Structure/0.23.1680.950@0.23.1680.950" timestamp="1591750932359" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.952@0.23.1680.952" timestamp="1591318166848" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.954@0.23.1680.954" timestamp="1591602049416" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1591404906442" />
-    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1591690967245">
+    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1591779040831">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952@0.23.1680.952" timestamp="1591579808043" />
-    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.954@0.23.1680.954" timestamp="1591690967245" />
-    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591273464817" />
+    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.954@0.23.1680.954" timestamp="1591779040831" />
+    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1591776845586" />
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1591442380662" />
     <state x="590" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1591182687037" />
     <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591690871038">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.954@0.23.1680.954" timestamp="1591690871038" />
-    <state x="605" y="23" key="CommitChangelistDialog2" timestamp="1591609387201">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591698221454">
+      <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1591578806132" />
+    <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1591698221454" />
     <state x="605" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591609387201" />
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.956@0.23.1680.956" timestamp="1591500311713" />
     <state x="180" y="116" key="DiffContextDialog" timestamp="1591500404644">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="180" y="116" key="DiffContextDialog/0.23.1680.956@0.23.1680.956" timestamp="1591500404644" />
-    <state width="1628" height="161" key="GridCell.Tab.0.bottom" timestamp="1591698173064">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state width="1628" height="156" key="GridCell.Tab.0.bottom" timestamp="1591779290625">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1591698173064" />
-    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1591695955987" />
-    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591697468994" />
-    <state width="1628" height="161" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591697293032" />
-    <state width="1628" height="115" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1591606255135" />
+    <state width="1628" height="141" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1591758448654" />
+    <state width="1628" height="135" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1591761560366" />
+    <state width="1628" height="156" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1591779290625" />
+    <state width="1628" height="135" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1591776672765" />
+    <state width="1628" height="135" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1591773656479" />
     <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1591442212342" />
     <state width="1628" height="157" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
-    <state width="1628" height="161" key="GridCell.Tab.0.center" timestamp="1591698173063">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state width="1628" height="156" key="GridCell.Tab.0.center" timestamp="1591779290625">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1591698173063" />
-    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1591695955986" />
-    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1591697468993" />
-    <state width="1628" height="161" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591697293031" />
-    <state width="1628" height="115" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1591606255135" />
+    <state width="1628" height="141" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1591758448653" />
+    <state width="1628" height="135" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1591761560365" />
+    <state width="1628" height="156" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1591779290625" />
+    <state width="1628" height="135" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1591776672764" />
+    <state width="1628" height="135" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1591773656478" />
     <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
-    <state width="1628" height="161" key="GridCell.Tab.0.left" timestamp="1591698173063">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state width="1628" height="156" key="GridCell.Tab.0.left" timestamp="1591779290624">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1591698173063" />
-    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1591695955986" />
-    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1591697468993" />
-    <state width="1628" height="161" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591697293031" />
-    <state width="1628" height="115" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1591606255134" />
+    <state width="1628" height="141" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1591758448653" />
+    <state width="1628" height="135" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1591761560365" />
+    <state width="1628" height="156" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1591779290624" />
+    <state width="1628" height="135" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1591776672764" />
+    <state width="1628" height="135" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1591773656477" />
     <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1591442212340" />
     <state width="1628" height="157" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
-    <state width="1628" height="161" key="GridCell.Tab.0.right" timestamp="1591698173064">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state width="1628" height="156" key="GridCell.Tab.0.right" timestamp="1591779290625">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1591698173064" />
-    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591695955987" />
-    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1591697468994" />
-    <state width="1628" height="161" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591697293032" />
-    <state width="1628" height="115" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1591606255135" />
+    <state width="1628" height="141" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1591758448654" />
+    <state width="1628" height="135" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1591761560366" />
+    <state width="1628" height="156" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1591779290625" />
+    <state width="1628" height="135" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1591776672765" />
+    <state width="1628" height="135" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1591773656479" />
     <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
     <state width="1628" height="290" key="GridCell.Tab.1.bottom" timestamp="1591616393280">
@@ -421,22 +430,23 @@
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.954@0.23.1680.954" timestamp="1591691995460" />
-    <state x="755" y="141" key="RollbackChangesDialog" timestamp="1591683666946">
+    <state x="755" y="142" key="RollbackChangesDialog" timestamp="1591776064954">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.950@0.23.1680.950" timestamp="1591753583673" />
+    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.954@0.23.1680.954" timestamp="1591604871205" />
+    <state x="755" y="142" key="RollbackChangesDialog/0.23.1680.956@0.23.1680.956" timestamp="1591776064954" />
+    <state x="103" y="23" key="SettingsEditor" timestamp="1591775148097">
+      <screen x="0" y="23" width="1680" height="956" />
+    </state>
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1591758983688" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1591757880563" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591749885892" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591775148097" />
+    <state x="352" y="187" key="Vcs.Push.Dialog.v2" timestamp="1591698232538">
       <screen x="0" y="23" width="1680" height="950" />
     </state>
-    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.950@0.23.1680.950" timestamp="1591683666946" />
-    <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.954@0.23.1680.954" timestamp="1591604871205" />
-    <state x="103" y="23" key="SettingsEditor" timestamp="1591613031271">
-      <screen x="0" y="23" width="1680" height="954" />
-    </state>
-    <state x="224" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1591578786588" />
-    <state x="103" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1591511024687" />
-    <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591613031271" />
-    <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591500390946" />
-    <state x="352" y="188" key="Vcs.Push.Dialog.v2" timestamp="1591609394461">
-      <screen x="0" y="23" width="1680" height="954" />
-    </state>
-    <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1591578868751" />
+    <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1591698232538" />
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1591511038731" />
     <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1591609394461" />
     <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500411369" />
@@ -466,18 +476,23 @@
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="738" y="416" key="git4idea.ui.GitResetDialog/0.23.1680.954@0.23.1680.954" timestamp="1591498966348" />
-    <state x="36" y="23" key="new project wizard" timestamp="1591613029139">
+    <state x="36" y="23" key="new project wizard" timestamp="1591749884220">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state x="36" y="23" key="new project wizard/0.23.1680.954@0.23.1680.954" timestamp="1591613029139" />
+    <state x="36" y="23" key="new project wizard/0.23.1680.954@0.23.1680.954" timestamp="1591749884220" />
     <state x="36" y="23" key="new project wizard/0.23.1680.956@0.23.1680.956" timestamp="1591498393200" />
-    <state x="480" y="23" width="838" height="1030" key="search.everywhere.popup" timestamp="1591690964042">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1591776822855">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1591252600957" />
+    <state x="480" y="23" width="838" height="950" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1591754468279" />
     <state x="480" y="23" width="838" height="1030" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1591690964042" />
-    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1591272930866" />
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1591776822855" />
     <state x="480" y="23" width="838" height="1035" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1591442369766" />
     <state x="480" y="23" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1591182709010" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/basic$Test__1_.ic" NAME="Test (1) Coverage Results" MODIFIED="1591774328418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.amao.demo07_基本类型与字符串之间的转换.*</FILTER>
+    </SUITE>
   </component>
 </project>
