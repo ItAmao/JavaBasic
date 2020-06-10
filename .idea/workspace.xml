@@ -14,33 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/day09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo01_BigInteger构造方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo02_BigInteger成员方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo03_BigDecimal构造方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo04_BigDecimal成员方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo05_Arrays类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo06_包装类/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo07_基本类型与字符串之间的转换/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo08_总结基本类型的使用/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo09_普通类作为方法参数和返回值/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo09_普通类作为方法参数和返回值/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo10_抽象类作为方法参数和返回值/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo10_抽象类作为方法参数和返回值/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo11_接口作为方法参数和返回值/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo11_接口作为方法参数和返回值/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo12_普通类作为成员变量/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo12_普通类作为成员变量/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo13_抽象类作为成员变量/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo13_抽象类作为成员变量/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo13_抽象类作为成员变量/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo14_接口作为成员变量/DoHomework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo14_接口作为成员变量/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day09/src/com/amao/demo14_接口作为成员变量/StudentTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day09/src/com/amao/Ademo_KP/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day09/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -238,7 +213,7 @@
       <workItem from="1591749827264" duration="5599000" />
       <workItem from="1591755914896" duration="3060000" />
       <workItem from="1591759000296" duration="2554000" />
-      <workItem from="1591768868536" duration="10371000" />
+      <workItem from="1591768868536" duration="10527000" />
     </task>
     <task id="LOCAL-00001" summary="java基础知识 2020.6.7">
       <created>1591499179730</created>
@@ -282,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591698221745</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="java基础知识 2020年6月10日 周三">
+      <created>1591779825477</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1591779825477</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,7 +312,8 @@
     <MESSAGE value="java基础知识 2020.6.7" />
     <MESSAGE value="java基础知识 2020.6.8" />
     <MESSAGE value="java基础知识 2020.6.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="java基础知识 2020.6.9" />
+    <MESSAGE value="java基础知识 2020年6月10日 周三" />
+    <option name="LAST_COMMIT_MESSAGE" value="java基础知识 2020年6月10日 周三" />
   </component>
   <component name="WindowStateProjectService">
     <state x="470" y="172" key="#Inspections" timestamp="1591774669503">
@@ -356,11 +339,11 @@
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.954@0.23.1680.954" timestamp="1591690871038" />
-    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1591698221454">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state x="605" y="23" key="CommitChangelistDialog2" timestamp="1591779825127">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1591698221454" />
-    <state x="605" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591609387201" />
+    <state x="605" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591779825127" />
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.956@0.23.1680.956" timestamp="1591500311713" />
     <state x="180" y="116" key="DiffContextDialog" timestamp="1591500404644">
       <screen x="0" y="23" width="1680" height="956" />
@@ -443,12 +426,12 @@
     <state x="103" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1591757880563" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1591749885892" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1591775148097" />
-    <state x="352" y="187" key="Vcs.Push.Dialog.v2" timestamp="1591698232538">
-      <screen x="0" y="23" width="1680" height="950" />
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2" timestamp="1591779831291">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1591698232538" />
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1591511038731" />
-    <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1591609394461" />
+    <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1591779831291" />
     <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500411369" />
     <state x="577" y="272" key="chooseDestDirectoryDialog" timestamp="1591267690446">
       <screen x="0" y="23" width="1680" height="950" />
