@@ -27,5 +27,18 @@ public class Test {
         //打印出strC的类型
         System.out.println(strC.getClass().getName().toString());
     }
+/*
+字符串转int
+public class Test {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("请从控制台接收一个整数的“分数”值:");
+        String score = scanner.next();
+        Integer scores = new Integer(score);
+        int a = scores; //自动拆箱
+        System.out.println(a + 5);
+    }
+}
 
+ */
 }
