@@ -1,6 +1,6 @@
 package com.amao.Ademo_KP;
 
-/*
+/**
     知识点
  */
 public class KnowledgePoint {

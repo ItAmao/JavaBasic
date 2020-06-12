@@ -40,7 +40,7 @@ public class Test {
 
 		       B:请写出下面的结果
 			        String s1 = new String("abc");
-			        Strign s2 = new String("abc");
+			        String s2 = new String("abc");
 			        String s3 = "abc";
 			        String s4 = "abc";
 			        sop(s1==s2);  //false
