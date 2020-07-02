@@ -26,11 +26,11 @@ interface IA{
     }
 
     // 私有方法
-    private void method4(){
+//     void method4(){
+//
+//    }
 
-    }
-
-    private static void method5(){
+    static void method5(){
 
     }
 }

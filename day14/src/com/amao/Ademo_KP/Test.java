@@ -83,7 +83,7 @@ public class Test {
          *      	                        //方法体
          *                              }
          *
-         *        2.try..catch捕获异常
+         *          2.try..catch捕获异常
          *                  a.捕获异常的格式
          *                          try{
          *                              可能出现异常的代码

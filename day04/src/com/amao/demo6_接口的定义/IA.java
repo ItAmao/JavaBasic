@@ -27,13 +27,13 @@ public interface IA {
         System.out.println("静态方法 method5");
     }
 
-     // 私有静态方法 使用private static修饰  不可以省略
-     private static void method6(){
-        System.out.println("私有静态方法 method6");
-    }
+    // 私有静态方法 使用private static修饰  不可以省略
+//    private static void method6(){
+//        System.out.println("私有静态方法 method6");
+//    }
 
     // 私有非静态方法 使用private修饰
-    private  void method7(){
-        System.out.println("私有静态方法 method7");
-    }
+//    private  void method7(){
+//        System.out.println("私有静态方法 method7");
+//    }
 }
