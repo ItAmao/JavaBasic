@@ -13,783 +13,144 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="java基础知识 2020年6月17日 周三">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/src/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/src/com/amao/homework/demo07/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/src/com/amao/homework/demo07/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/src/com/amao/homework/demo08/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day14/src/com/amao/homework/demo08/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/day15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/day15【多线程】.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/Ademo_KP/ThreadNew.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo01_Thread类的介绍/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo01_Thread类的介绍/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo01_Thread类的介绍/ThreadDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo01_Thread类的介绍/ThreadMethodTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo01_Thread类的介绍/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo02_继承创建线程方式/MyThreadSon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo02_继承创建线程方式/ThreadSon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo02_继承创建线程方式/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo02_继承创建线程方式/WindowTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo02_继承创建线程方式/WindowTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo03_实现创建线程方式/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo03_实现创建线程方式/ThreadRealize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo04_匿名内部类创建简化方式/ThreadAnonymousInnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/demo05_多线程的运行机制/TestMultiThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo01/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo01/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo02/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo03/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo04/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo05/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo06/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day15/src/com/amao/homework/demo07/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/day16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/day16【volatile关键字、原子性】.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/Ademo_KP/demo/BankTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/Ademo_KP/demo/WindowTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/Ademo_KP/demo/WindowTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/Ademo_KP/demo/WindowTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/Ademo_KP/demo/WindowTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo01_volatile解决可见性/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo01_volatile解决可见性/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo02_volatile/AutomicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo02_volatile/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo03_AtomicInteger/AutomicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo03_AtomicInteger/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo04_AtomicIntegerArray/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo04_AtomicIntegerArray/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo05_synchronized卖票问题/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo05_synchronized卖票问题/MyRunnable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo05_synchronized卖票问题/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo05_synchronized卖票问题/TestDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo06_synchronized/MyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/demo06_synchronized/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day16/src/com/amao/homework/demo01/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/day17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/day17【线程安全解决、并发包】.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/Ademo_KP/demo/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/Ademo_KP/demo/CommunicationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/Ademo_KP/demo/LockTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/MyThread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/MyThread02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/MyThread03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo01_synchronized同步方法/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo02_Lock锁/MyThread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo02_Lock锁/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo03_CopyOnWriteArrayList/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo03_CopyOnWriteArrayList/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo04_CopyOnWriteArraySet/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo04_CopyOnWriteArraySet/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo05_ConcurrentHashMap/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo05_ConcurrentHashMap/MyThread01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo05_ConcurrentHashMap/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo05_ConcurrentHashMap/TestDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo06_CountDownLatch/TestDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo06_CountDownLatch/ThreadOne01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo06_CountDownLatch/ThreadThree01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo06_CountDownLatch/ThreadTwo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo07_CyclicBarrier/PersonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo07_CyclicBarrier/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo08_Semaphore/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo08_Semaphore/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo09_Exchanger/TestDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo09_Exchanger/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day17/src/com/amao/demo09_Exchanger/ThreadB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/day18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/day18【线程池、死锁、线程状态、等待与唤醒】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/Ademo_KP/demo/ThreadTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo01_ThreadPool/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo01_ThreadPool/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo01_ThreadPool/ThreadPool.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo02_死锁/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo03_等待和唤醒/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo03_等待和唤醒/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo04_生产者和消费者问题/ProductTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo04_生产者和消费者问题/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo05_定时器/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo05_定时器/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo05_定时器/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/demo05_定时器/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day18/src/com/amao/homework/demo01/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/day19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/day19【Lambda表达式、Stream流】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/Ademo_KP/demo01_使用匿名内部类存在的问题/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/Ademo_KP/demo02_Lambda表达式/Smokeable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/Ademo_KP/demo02_Lambda表达式/Swimmable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/Ademo_KP/demo02_Lambda表达式/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/Ademo_KP/demo02_Lambda表达式/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/demo01_Runnable/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/demo02_Lambda/Student02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/demo02_Lambda/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day19/src/com/amao/demo02_Lambda/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/day20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/day20【File类、递归、字节流】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/3/2/1/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/FileTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/FileTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/FileTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/FileTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo01_File/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo02_递归/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/BufferedTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/BufferedTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileInputStream01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileInputStream02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileReadWriterTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileReadWriterTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileReadWriterTest03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileReadWriterTest04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/FileReadWriterTest05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/InputStreamReaderTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/OtherStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/OutputStreamWriterTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day20/src/com/amao/demo03_IO流/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/day21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/src/com/amao/Ademo_KP/JUnit/CalculationTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day21/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/day21【字符流、Properties】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/day22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/day22【缓冲流、转换流、序列化流】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/lib/commons-io-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo01_Properties类/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo01_Properties类/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo01_Properties类/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo01_Properties类/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo02_ResourceBundle工具类/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo02_ResourceBundle工具类/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo03_字节缓冲流/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo03_字节缓冲流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo03_字节缓冲流/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo03_字节缓冲流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo03_字节缓冲流/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo03_字节缓冲流/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo04_字符缓冲流/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo05_转换流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo05_转换流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo05_转换流/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo05_转换流/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo05_转换流/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo05_转换流/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Student04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Student05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo06_序列流/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo07_打印流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo07_打印流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo07_打印流/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo07_打印流/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo07_打印流/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo08_装饰设计模式/ItAmao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo08_装饰设计模式/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo08_装饰设计模式/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo08_装饰设计模式/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo09_commons_io包/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo09_commons_io包/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/demo09_commons_io包/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo01/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo01/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo02/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo02/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo03/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo03/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo04/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo04/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo04/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo05/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo05/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo06/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo06/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo07/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo07/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo08/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo08/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo09/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo09/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo09/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo10/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo10/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo11/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo11/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day22/src/com/amao/homework/demo11/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/day23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/day23【Socket网络编程】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/lib/hamcrest-core-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/lib/junit-4.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo01_java1/InetAddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo02_java2/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo02_java2/TCPTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo02_java2/TCPTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo02_java2/TCPTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo02_java2/TCPTest4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo03_java3/UDPTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo03_java4/URLTest01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo03_java4/URLTest02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP/demo03_java4/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo01_JUnit单元测试/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo01_JUnit单元测试/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo01_JUnit单元测试/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo02_InetAddress/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo02_InetAddress/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo03_TCP通信程序/Test06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/1593680595461.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/1593680632817.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/Test05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例/Test06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo05_模拟BS服务器/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo05_模拟BS服务器/Test02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo05_模拟BS服务器/Test03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/demo05_模拟BS服务器/Test04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/homework/Demo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/homework/Demo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/homework/Demo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/homework/Demo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/homework/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day23/src/com/amao/homework/demo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/basic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/dictionaries" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/smartfox_info.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/FileTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/FileTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/FileTest03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/FileTest04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo01_File/Test05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo02_递归/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/BufferedTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/BufferedTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileInputStream01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileInputStream02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileReadWriterTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileReadWriterTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileReadWriterTest03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileReadWriterTest04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/FileReadWriterTest05.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/InputStreamReaderTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/OtherStream.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/OutputStreamWriterTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/com/amao/demo03_IO流/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/day20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/day20【File类、递归、字节流】 2.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo01_File/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo01_File/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo01_File/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo01_File/3/2/1/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo01_File/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/basic/day20/src/com/amao/demo03_IO流/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/Ademo_kp/Summary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo1_面向对象编程思想/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo2_类的定义/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo3_对象的创建和使用/Phone.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo3_对象的创建和使用/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo3_对象的创建和使用/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo4_对象使用的练习/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo4_对象使用的练习/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo5_单个对象的内存图/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo5_单个对象的内存图/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo6_多个对象的内存图/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo6_多个对象的内存图/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo7_多个变量指向相同对象内存图/4_多个变量指向相同对象内存图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo7_多个变量指向相同对象内存图/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo7_多个变量指向相同对象内存图/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo8_成员变量和局部变量的区别/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day01/com/amao/demo8_成员变量和局部变量的区别/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/Ademo_kp/Summary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo1_private关键字/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo1_private关键字/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo2_对属性封装的步骤/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo2_对属性封装的步骤/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo3_set和get方法/2_set方法形参名修改后出现的问题分析.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo3_set和get方法/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo3_set和get方法/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo4_this关键字/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo4_this关键字/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo5_构造方法的概述和定义/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo5_构造方法的概述和定义/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo6_标准的类/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo6_标准的类/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo6_标准的类/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo6_标准的类/TestPerson.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo7_API/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo8_匿名对象/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day02/com/amao/demo8_匿名对象/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/Ademo_KP/Summary.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo10_抽象类的概述和定义/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo10_抽象类的概述和定义/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo11_抽象类的特点/Doctor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo11_抽象类的特点/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo11_抽象类的特点/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo11_抽象类的特点/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo11_抽象类的特点/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo12_模板设计模式案例/Driver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo12_模板设计模式案例/NewDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo12_模板设计模式案例/OldDriver.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo12_模板设计模式案例/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo2_对象的内存图/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo2_对象的内存图/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo3_继承的格式/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo3_继承的格式/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo3_继承的格式/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo3_继承的格式/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo3_继承的格式/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Fu1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Fu2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Fu3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Test1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Test3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Zi1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Zi2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo4_继承后成员访问规则/Zi3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo5_方法重写/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo5_方法重写/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo5_方法重写/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo6_this的三种用法/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo6_this的三种用法/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo7_super的三种用法/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo7_super的三种用法/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo7_super的三种用法/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo8_super的注意事项/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo8_super的注意事项/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo8_super的注意事项/Ye.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo8_super的注意事项/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo9_继承体系的内存图/03_继承体系的内存图.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo9_继承体系的内存图/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo9_继承体系的内存图/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day03/com/amao/demo9_继承体系的内存图/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/D.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/E.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo11_接口多继承几种冲突情况/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo11_接口多继承几种冲突情况/B.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo11_接口多继承几种冲突情况/C.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo11_接口多继承几种冲突情况/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo12_实现类继承父类又实现接口时的冲突/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo12_实现类继承父类又实现接口时的冲突/IA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo12_实现类继承父类又实现接口时的冲突/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalClassFu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalClassZi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalMethodFu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalMethodZi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalVariable1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalVariable2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo2_static修饰成员变量/ChinesePeople.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo3_static修饰成员方法/ChinesePeople.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo3_static修饰成员方法/People.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo3_static修饰成员方法/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo4_static修饰代码块/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo4_static修饰代码块/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo5_以后开发中static的应用/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo5_以后开发中static的应用/Utils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo7_实现接口/IA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo7_实现接口/IB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo7_实现接口/Imp1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo7_实现接口/Imp2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo8_接口中成员的访问特点/IA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo8_接口中成员的访问特点/Imp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo8_接口中成员的访问特点/Imp2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo8_接口中成员的访问特点/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo9_多实现时的几种冲突情况/IA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo9_多实现时的几种冲突情况/IB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo9_多实现时的几种冲突情况/Imp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo1/JavaTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo1/Painting.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo1/Staff.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo1/UiTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/BMWMotorcycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/Benz.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/Bmw.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/BmwCar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/Car.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/Motorcycle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day04/com/amao/homework/demo2/Yamaha.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo10_权限修饰符/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo10_权限修饰符/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo12_代码块/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo12_代码块/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo13_扩展/Body$Heart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo13_扩展/Body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo13_扩展/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/IA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/Imp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo2_多态时访问成员特点/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo2_多态时访问成员特点/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Fu.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Imp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Zi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo4_多态的应用场景/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo4_多态的应用场景/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo4_多态的应用场景/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo5_多态的好处和弊端/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo5_多态的好处和弊端/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo5_多态的好处和弊端/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo6_引用类型转换/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo6_引用类型转换/Cat.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo6_引用类型转换/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo6_引用类型转换/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo8_内部类/Body$Heart.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo8_内部类/Body.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo8_内部类/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/A.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Animal.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Dog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Imp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Test2$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Test2$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo9_匿名内部类/Test2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/JavaStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/JavaTeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/Person.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/Teacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/UIStudent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day10/com/amao/homework/demo03/UITeacher.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day14/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day14/com/amao/homework/demo07/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day14/com/amao/homework/demo07/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day14/com/amao/homework/demo08/Product.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day14/com/amao/homework/demo08/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/Ademo_KP/NumThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/Ademo_KP/ThreadNew.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/MyThread02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/MyThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/Thread01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/Thread02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/ThreadDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/ThreadMethodTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo01_Thread类的介绍/ThreadTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/MThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/MyThreadSon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/ThreadSon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/ThreadTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/Window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/Window1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/WindowTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo02_继承创建线程方式/WindowTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo03_实现创建线程方式/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo03_实现创建线程方式/ThreadRealize.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo04_匿名内部类创建简化方式/ThreadAnonymousInnerClass$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo04_匿名内部类创建简化方式/ThreadAnonymousInnerClass$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo04_匿名内部类创建简化方式/ThreadAnonymousInnerClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo05_多线程的运行机制/TestMultiThread$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo05_多线程的运行机制/TestMultiThread$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/demo05_多线程的运行机制/TestMultiThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo01/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo01/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo01/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo02/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo02/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo03/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo03/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo04/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo04/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo05/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo05/Test$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo05/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo06/Test$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo06/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day15/com/amao/homework/demo07/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/Bank.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/BankTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/Window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/WindowTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/WindowTest02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/WindowTest03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/WindowTest04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/window2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/window3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/Ademo_KP/demo/window4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo01_volatile解决可见性/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo01_volatile解决可见性/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo02_volatile/AutomicDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo02_volatile/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo03_AtomicInteger/AutomicDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo03_AtomicInteger/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo04_AtomicIntegerArray/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo04_AtomicIntegerArray/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo05_synchronized卖票问题/MyRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo05_synchronized卖票问题/MyRunnable1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo05_synchronized卖票问题/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo05_synchronized卖票问题/TestDemo1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo06_synchronized/MyRunnable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/demo06_synchronized/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day16/com/amao/homework/demo01/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/demo/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/demo/AccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/demo/CommunicationTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/demo/LockTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/demo/Number.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/Ademo_KP/demo/Window.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/MyThread01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/MyThread02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/MyThread03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo01_synchronized同步方法/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo02_Lock锁/MyThread01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo02_Lock锁/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo03_CopyOnWriteArrayList/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo03_CopyOnWriteArrayList/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo04_CopyOnWriteArraySet/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo04_CopyOnWriteArraySet/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo05_ConcurrentHashMap/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo05_ConcurrentHashMap/MyThread01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo05_ConcurrentHashMap/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo05_ConcurrentHashMap/TestDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo06_CountDownLatch/TestDemo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo06_CountDownLatch/ThreadOne01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo06_CountDownLatch/ThreadThree01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo06_CountDownLatch/ThreadTwo01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo07_CyclicBarrier/PersonThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo07_CyclicBarrier/TestDemo$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo07_CyclicBarrier/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo08_Semaphore/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo08_Semaphore/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo09_Exchanger/TestDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo09_Exchanger/ThreadA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day17/com/amao/demo09_Exchanger/ThreadB.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/Ademo_KP/demo/ThreadTest01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/Ademo_KP/demo/ThreadTest01$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/Ademo_KP/demo/ThreadTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/NumberThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/NumberThread1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/Test02$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo01_ThreadPool/ThreadPool.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo02_死锁/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo02_死锁/Test01$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo02_死锁/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo03_等待和唤醒/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo03_等待和唤醒/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo03_等待和唤醒/Test02$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo03_等待和唤醒/Test02$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo03_等待和唤醒/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/Clerk.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/Customer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/ProductTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/Test01$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo04_生产者和消费者问题/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test02$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test03$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test04$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/demo05_定时器/Test04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/homework/demo01/Task.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day18/com/amao/homework/demo01/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo01_使用匿名内部类存在的问题/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo01_使用匿名内部类存在的问题/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo02_Lambda表达式/Smokeable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo02_Lambda表达式/Swimmable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo02_Lambda表达式/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo02_Lambda表达式/Test01$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo02_Lambda表达式/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/Ademo_KP/demo02_Lambda表达式/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/demo01_Runnable/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/demo01_Runnable/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/demo02_Lambda/Student02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/demo02_Lambda/Test01$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/demo02_Lambda/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day19/com/amao/demo02_Lambda/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo01_File/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo01_File/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo01_File/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo01_File/3/2/1/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo01_File/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/5.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day20/com/amao/demo03_IO流/6.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day21/com/amao/Ademo_KP/JUnit/CalculationTest01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day21/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo01_Properties类/3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo01_Properties类/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo01_Properties类/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo01_Properties类/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo02_ResourceBundle工具类/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo02_ResourceBundle工具类/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo03_字节缓冲流/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo03_字节缓冲流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo03_字节缓冲流/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo03_字节缓冲流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo03_字节缓冲流/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo03_字节缓冲流/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo04_字符缓冲流/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo04_字符缓冲流/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo05_转换流/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo05_转换流/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo06_序列流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo06_序列流/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo06_序列流/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo06_序列流/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo06_序列流/Test02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo06_序列流/Test03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo07_打印流/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo07_打印流/Test01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/day22/com/amao/demo07_打印流/Test02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="1117dba5-4fb7-4246-9268-9317474cbfda" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/day24.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/day24【JUnit单元测试、NIO】 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/day25【NIO、AIO】 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/Ademo_KP/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/Ademo_KP/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/aio/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/aio/ServerWithThreadGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/bio/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/bio/ServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/netty/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/netty/HelloNetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/netty/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/nio/PoolServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo/nio/ServerTest01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo01_ByteBuffer/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo01_ByteBuffer/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo01_ByteBuffer/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo02_Channel/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/1593747317111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo04_SocketChannel/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo04_SocketChannel/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo04_SocketChannel/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo04_SocketChannel/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo04_SocketChannel/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/SelectorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/SelectorDemo02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo05_Selector选择器/Test07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Test05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO/Test06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/day25.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/day26【反射、注解】 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java1/ClassLoaderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java1/NewInstanceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java1/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java2/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java2/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java2/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java3/FieldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java3/MethodTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java3/OtherTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java3/ReflectionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java4/ProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/Ademo_KP/java4/StaticProxyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo01_类的加载/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Coder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Test03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Test04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo02_反射/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/BookDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/BookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/MyAnnotationDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/MyTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/MyTestDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo03_注解/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo04_动态代理/Demo01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo04_动态代理/MyCollections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo04_动态代理/MyCollectionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo04_动态代理/MyCollectionsTest02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/com/amao/demo04_动态代理/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day25/src/jdbc1.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/bookshelf.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/day26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/day27【XML、dom4j】 2.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/dtd/bookshelf.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/dtd/my.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/lib/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/lib/jaxen-1.1.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/lib/lombok-1.18.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/Ademo_KP/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/Test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/demo01_DOM4J/Test01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/demo02_lomhok/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/demo02_lomhok/StudentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/student.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/test2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/src/com/amao/test3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/xml.tld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/xml/book.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/xml/scores.dtd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/xml/scores.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/xml/scores2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day26/xml/student.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/com/amao/demo6_接口的定义/IA.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/amao/demo6_接口的定义/IA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day04/src/com/amao/demo8_接口中成员的访问特点/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day04/src/com/amao/demo8_接口中成员的访问特点/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day14/src/com/amao/Ademo_KP/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/day14/src/com/amao/Ademo_KP/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo10_接口和接口的关系/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo12_实现类继承父类又实现接口时的冲突/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo12_实现类继承父类又实现接口时的冲突/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/JiDu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/JiDu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/JiDuDog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/JiDuDog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo13_抽象类和接口的练习/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalClassFather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalClassSon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalMethodFather.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/FinalMethodSon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo1_final/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo2_static修饰成员变量/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo2_static修饰成员变量/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo2_static修饰成员变量/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo6_接口的定义/IA.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo6_接口的定义/IA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo6_接口的定义/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo6_接口的定义/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo7_实现接口/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo7_实现接口/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day04/com/amao/demo9_多实现时的几种冲突情况/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day04/com/amao/demo9_多实现时的几种冲突情况/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/Ademo_KP/KnowledgePoint.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/Ademo_KP/KnowledgePoint.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo1_实现多态/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/demo2_多态时访问成员特点/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo2_多态时访问成员特点/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo3_多态的几种表现形式/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/demo4_多态的应用场景/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo4_多态的应用场景/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/demo5_多态的好处和弊端/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo5_多态的好处和弊端/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day05/com/amao/demo6_引用类型转换/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day05/com/amao/demo6_引用类型转换/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/META-INF/day06.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day15/META-INF/day15.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day06/com/amao/homework/demo06/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day06/com/amao/homework/demo6/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day07/META-INF/day07.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day16/META-INF/day16.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day08/META-INF/day08.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day17/META-INF/day17.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day09/META-INF/day09.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day18/META-INF/day18.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day09/com/amao/Ademo_KP/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day09/com/amao/Ademo_KP/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day10/META-INF/day10.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day19/META-INF/day19.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day11/META-INF/day11.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day12/com/amao/demo_用户管理系统/dao/Login.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day12/com/amao/demo_用户管理系统/dao/Login.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day13/META-INF/day13.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day14/META-INF/day14.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/day17/src/com/amao/Ademo_KP/demo/CommunicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/day17/src/com/amao/Ademo_KP/demo/CommunicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day23/day23.iml" beforeDir="false" afterPath="$PROJECT_DIR$/day23/day23.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -802,8 +163,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -850,7 +213,7 @@
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/day04/src/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day26/xml" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -860,110 +223,106 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day23/src/com/amao/demo04_文件上传案例" />
-      <recent name="$PROJECT_DIR$/day23/src/com/amao" />
-      <recent name="$PROJECT_DIR$/day23" />
-      <recent name="$PROJECT_DIR$/day22/src/com/amao/homework/demo02" />
-      <recent name="$PROJECT_DIR$/day22" />
+      <recent name="$PROJECT_DIR$/day26/lib" />
+      <recent name="$PROJECT_DIR$/day26" />
+      <recent name="$PROJECT_DIR$/day25" />
+      <recent name="$PROJECT_DIR$/day24/src/com/amao/demo/netty" />
+      <recent name="$PROJECT_DIR$/day24/src/com/amao/demo/aio" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/day23/src/com/amao/Ademo_KP" />
-      <recent name="$PROJECT_DIR$/day23" />
-      <recent name="$PROJECT_DIR$/day23/lib" />
-      <recent name="$PROJECT_DIR$/day22/src/com/amao/homework/demo11" />
-      <recent name="$PROJECT_DIR$/day22/src/com/amao/homework/demo10" />
+      <recent name="$PROJECT_DIR$/day26/xml" />
+      <recent name="$PROJECT_DIR$/day26/lib" />
+      <recent name="$PROJECT_DIR$/day25/lib" />
+      <recent name="$PROJECT_DIR$/day24/src/com/amao/demo06_AIO" />
+      <recent name="$PROJECT_DIR$/day24/src/com/amao/demo03_MappedByteBuffer" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.amao.demo02_反射" />
+      <recent name="com.amao.demo05_Selector选择器" />
+      <recent name="com.amao.demo04_SocketChannel" />
       <recent name="com.amao.demo06_序列流" />
       <recent name="com.amao.demo03_IO流" />
-      <recent name="com.amao.demo02_Lambda" />
-      <recent name="com.amao.demo05_定时器" />
-      <recent name="com.amao.demo_等待和唤醒" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.amao.homework.demo06" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Test06.client">
-    <configuration name="Demo04.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day23" />
+  <component name="RunManager" selected="JUnit.Test02.test1">
+    <configuration name="Demo01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo04_动态代理.Demo01" />
+      <module name="day25" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.homework.*" />
+          <option name="PATTERN" value="com.amao.demo04_动态代理.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.amao.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.Demo04" />
-      <option name="METHOD_NAME" value="client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01.test1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day26" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.amao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.amao" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.Test01" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test04.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day23" />
+    <configuration name="Test01.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo05_模拟BS服务器.*" />
+          <option name="PATTERN" value="com.amao.demo01_DOM4J.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.amao.demo05_模拟BS服务器" />
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo05_模拟BS服务器.Test04" />
-      <option name="METHOD_NAME" value="server" />
+      <option name="PACKAGE_NAME" value="com.amao.demo01_DOM4J" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.demo01_DOM4J.Test01" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test06.client" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day23" />
+    <configuration name="Test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo03_TCP通信程序.*" />
+          <option name="PATTERN" value="com.amao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.amao.demo03_TCP通信程序" />
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo03_TCP通信程序.Test06" />
-      <option name="METHOD_NAME" value="client" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.amao" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.Test02" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test06.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day23" />
+    <configuration name="Test02.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day26" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.amao.demo03_TCP通信程序.*" />
+          <option name="PATTERN" value="com.amao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.amao.demo03_TCP通信程序" />
-      <option name="MAIN_CLASS_NAME" value="com.amao.demo03_TCP通信程序.Test06" />
-      <option name="METHOD_NAME" value="server" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="demo05.server" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="day23" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.amao.homework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.amao.homework" />
-      <option name="MAIN_CLASS_NAME" value="com.amao.homework.demo05" />
-      <option name="METHOD_NAME" value="server" />
+      <option name="PACKAGE_NAME" value="com.amao" />
+      <option name="MAIN_CLASS_NAME" value="com.amao.Test02" />
+      <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -971,11 +330,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Test06.client" />
-        <item itemvalue="JUnit.Test06.server" />
-        <item itemvalue="JUnit.demo05.server" />
-        <item itemvalue="JUnit.Test04.server" />
-        <item itemvalue="JUnit.Demo04.client" />
+        <item itemvalue="JUnit.Test02.test1" />
+        <item itemvalue="JUnit.Test02" />
+        <item itemvalue="JUnit.Test01.test1 (1)" />
+        <item itemvalue="JUnit.Test01.test1" />
+        <item itemvalue="Application.Demo01" />
       </list>
     </recent_temporary>
   </component>
@@ -1130,7 +489,26 @@
       <workItem from="1593658738063" duration="90000" />
       <workItem from="1593658830639" duration="5315000" />
       <workItem from="1593670572492" duration="14505000" />
-      <workItem from="1593685124964" duration="7000000" />
+      <workItem from="1593685124964" duration="7282000" />
+      <workItem from="1593694127926" duration="375000" />
+      <workItem from="1593697504478" duration="370000" />
+      <workItem from="1593735803671" duration="13717000" />
+      <workItem from="1593750042892" duration="122000" />
+      <workItem from="1593756143739" duration="966000" />
+      <workItem from="1593757145122" duration="20588000" />
+      <workItem from="1593784713260" duration="3585000" />
+      <workItem from="1593826219243" duration="11346000" />
+      <workItem from="1593842674418" duration="156000" />
+      <workItem from="1593842931482" duration="153000" />
+      <workItem from="1593843152922" duration="22828000" />
+      <workItem from="1593907572730" duration="15065000" />
+      <workItem from="1593928388377" duration="27205000" />
+      <workItem from="1593995082035" duration="3793000" />
+      <workItem from="1593999164645" duration="13000" />
+      <workItem from="1593999186662" duration="6771000" />
+      <workItem from="1594015714507" duration="6901000" />
+      <workItem from="1594028021865" duration="3028000" />
+      <workItem from="1594033458681" duration="3633000" />
     </task>
     <task id="LOCAL-00001" summary="java基础知识 2020.6.7">
       <created>1591499179730</created>
@@ -1223,7 +601,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592386656342</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="java基础知识 2020年7月2日 周四">
+      <created>1593692644760</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593692644760</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1277,7 +662,8 @@
     <MESSAGE value="java基础知识 2020年6月13日 周六" />
     <MESSAGE value="java基础知识 2020年6月16日 周二" />
     <MESSAGE value="java基础知识 2020年6月17日 周三" />
-    <option name="LAST_COMMIT_MESSAGE" value="java基础知识 2020年6月17日 周三" />
+    <MESSAGE value="java基础知识 2020年7月2日 周四" />
+    <option name="LAST_COMMIT_MESSAGE" value="java基础知识 2020年7月2日 周四" />
   </component>
   <component name="WindowStateProjectService">
     <state x="582" y="343" key="#Custom_Plugin_Repositories" timestamp="1593315056643">
@@ -1289,19 +675,19 @@
     </state>
     <state x="470" y="171" key="#Inspections/0.23.1680.949@0.23.1680.949" timestamp="1592117816154" />
     <state x="470" y="172" key="#Inspections/0.23.1680.956@0.23.1680.956" timestamp="1591774669503" />
-    <state x="686" y="340" key="#Notifications" timestamp="1593477541696">
+    <state x="686" y="340" key="#Notifications" timestamp="1593766416651">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
-    <state x="686" y="340" key="#Notifications/0.23.1680.952@0.23.1680.952" timestamp="1593477541696" />
-    <state x="230" y="23" key="#Project_Structure" timestamp="1593684503502">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state x="686" y="340" key="#Notifications/0.23.1680.952@0.23.1680.952" timestamp="1593766416651" />
+    <state x="230" y="23" key="#Project_Structure" timestamp="1594035671186">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="230" y="23" key="#Project_Structure/0.23.1680.948@0.23.1680.948" timestamp="1593684503502" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.949@0.23.1680.949" timestamp="1593133152556" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.950@0.23.1680.950" timestamp="1592096238174" />
-    <state x="230" y="23" key="#Project_Structure/0.23.1680.951@0.23.1680.951" timestamp="1593475464951" />
-    <state x="230" y="23" key="#Project_Structure/0.23.1680.952@0.23.1680.952" timestamp="1593519845767" />
-    <state x="230" y="23" key="#Project_Structure/0.23.1680.954@0.23.1680.954" timestamp="1593523781233" />
+    <state x="230" y="23" key="#Project_Structure/0.23.1680.951@0.23.1680.951" timestamp="1593909157457" />
+    <state x="230" y="23" key="#Project_Structure/0.23.1680.952@0.23.1680.952" timestamp="1594035671186" />
+    <state x="230" y="23" key="#Project_Structure/0.23.1680.954@0.23.1680.954" timestamp="1593848752531" />
     <state x="230" y="23" key="#Project_Structure/0.23.1680.956@0.23.1680.956" timestamp="1593525285839" />
     <state x="413" y="25" key="#Test" timestamp="1593314098991">
       <screen x="0" y="23" width="1680" height="951" />
@@ -1318,14 +704,15 @@
     <state x="524" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.951@0.23.1680.951" timestamp="1593251763847" />
     <state x="524" y="290" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.952@0.23.1680.952" timestamp="1593680483088" />
     <state x="524" y="291" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.956@0.23.1680.956" timestamp="1593515425726" />
-    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser" timestamp="1593519169737">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser" timestamp="1593954779633">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
+    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.948@0.23.1680.948" timestamp="1593917971256" />
     <state x="590" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1680.949@0.23.1680.949" timestamp="1593081549488" />
     <state x="590" y="142" key="#com.intellij.ide.util.MemberChooser/0.23.1680.950@0.23.1680.950" timestamp="1592101018488" />
     <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.952@0.23.1680.952" timestamp="1593519169737" />
-    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.954@0.23.1680.954" timestamp="1593512512504" />
-    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1593515350556" />
+    <state x="590" y="143" key="#com.intellij.ide.util.MemberChooser/0.23.1680.954@0.23.1680.954" timestamp="1593951725883" />
+    <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.956@0.23.1680.956" timestamp="1593954779633" />
     <state x="590" y="144" key="#com.intellij.ide.util.MemberChooser/0.23.1680.958@0.23.1680.958" timestamp="1591442380662" />
     <state x="590" y="145" key="#com.intellij.ide.util.MemberChooser/0.23.1680.960@0.23.1680.960" timestamp="1591182687037" />
     <state x="381" y="92" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1593073290259">
@@ -1341,26 +728,28 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="539" y="353" width="601" height="293" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1680.949@0.23.1680.949" timestamp="1592819754850" />
-    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591951247246">
-      <screen x="0" y="23" width="1680" height="952" />
-    </state>
-    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.952@0.23.1680.952" timestamp="1591951247246" />
-    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.954@0.23.1680.954" timestamp="1591690871038" />
-    <state x="512" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593507875359">
+    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1594028659668">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
+    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.951@0.23.1680.951" timestamp="1593910281835" />
+    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.952@0.23.1680.952" timestamp="1593744443058" />
+    <state x="511" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.954@0.23.1680.954" timestamp="1594028659668" />
+    <state x="512" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593912825965">
+      <screen x="0" y="23" width="1680" height="948" />
+    </state>
+    <state x="512" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.948@0.23.1680.948" timestamp="1593912825965" />
     <state x="512" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.952@0.23.1680.952" timestamp="1591952803466" />
     <state x="512" y="195" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.954@0.23.1680.954" timestamp="1593507875359" />
     <state x="542" y="208" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1593478472195">
       <screen x="0" y="23" width="1680" height="956" />
     </state>
     <state x="542" y="208" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.23.1680.956@0.23.1680.956" timestamp="1593478472195" />
-    <state x="633" y="23" key="CommitChangelistDialog2" timestamp="1593070408490">
-      <screen x="0" y="23" width="1680" height="949" />
+    <state x="405" y="23" key="CommitChangelistDialog2" timestamp="1593692643701">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.949@0.23.1680.949" timestamp="1593070408490" />
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.950@0.23.1680.950" timestamp="1592040493023" />
-    <state x="605" y="23" key="CommitChangelistDialog2/0.23.1680.952@0.23.1680.952" timestamp="1592386656065" />
+    <state x="405" y="23" key="CommitChangelistDialog2/0.23.1680.952@0.23.1680.952" timestamp="1593692643701" />
     <state x="605" y="23" key="CommitChangelistDialog2/0.23.1680.954@0.23.1680.954" timestamp="1591782907967" />
     <state x="633" y="23" key="CommitChangelistDialog2/0.23.1680.956@0.23.1680.956" timestamp="1591500311713" />
     <state x="180" y="116" key="DiffContextDialog" timestamp="1591500404644">
@@ -1371,16 +760,16 @@
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="594" y="409" key="Github.CreateGistDialog/0.23.1680.949@0.23.1680.949" timestamp="1592481729634" />
-    <state width="1628" height="110" key="GridCell.Tab.0.bottom" timestamp="1593692014067">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1628" height="219" key="GridCell.Tab.0.bottom" timestamp="1594036686624">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="234" key="GridCell.Tab.0.bottom/0.23.1680.948@0.23.1680.948" timestamp="1593685264317" />
+    <state width="1628" height="243" key="GridCell.Tab.0.bottom/0.23.1680.948@0.23.1680.948" timestamp="1593918696977" />
     <state width="1628" height="93" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1593247475458" />
     <state width="1628" height="171" key="GridCell.Tab.0.bottom/0.23.1680.950@0.23.1680.950" timestamp="1592103464076" />
-    <state width="1628" height="464" key="GridCell.Tab.0.bottom/0.23.1680.951@0.23.1680.951" timestamp="1593672414088" />
-    <state width="1628" height="110" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1593692014067" />
-    <state width="1628" height="234" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1593687605259" />
-    <state width="1628" height="133" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1593683023584" />
+    <state width="814" height="243" key="GridCell.Tab.0.bottom/0.23.1680.951@0.23.1680.951" timestamp="1593919878134" />
+    <state width="1628" height="345" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1594035585977" />
+    <state width="1628" height="219" key="GridCell.Tab.0.bottom/0.23.1680.954@0.23.1680.954" timestamp="1594036686624" />
+    <state width="1628" height="214" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1593961186644" />
     <state width="1628" height="133" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1593682687746" />
     <state width="1628" height="210" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1591442212342" />
     <state width="1628" height="157" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
@@ -1389,16 +778,16 @@
     <state width="1628" height="84" key="GridCell.Tab.0.bottom/1680.23.1080.787/0.23.1680.954@0.23.1680.954" timestamp="1592733265642" />
     <state width="1628" height="220" key="GridCell.Tab.0.bottom/1680.23.1280.937/0.23.1680.949@0.23.1680.949" timestamp="1592911154543" />
     <state width="1628" height="167" key="GridCell.Tab.0.bottom/1680.23.1536.1129/0.23.1680.952@0.23.1680.952" timestamp="1593484057643" />
-    <state width="1628" height="110" key="GridCell.Tab.0.center" timestamp="1593692014067">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1628" height="219" key="GridCell.Tab.0.center" timestamp="1594036686623">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="234" key="GridCell.Tab.0.center/0.23.1680.948@0.23.1680.948" timestamp="1593685264316" />
+    <state width="1628" height="243" key="GridCell.Tab.0.center/0.23.1680.948@0.23.1680.948" timestamp="1593918696977" />
     <state width="1628" height="93" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1593247475457" />
     <state width="1628" height="171" key="GridCell.Tab.0.center/0.23.1680.950@0.23.1680.950" timestamp="1592103464075" />
-    <state width="1628" height="464" key="GridCell.Tab.0.center/0.23.1680.951@0.23.1680.951" timestamp="1593672414087" />
-    <state width="1628" height="110" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1593692014067" />
-    <state width="1628" height="234" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1593687605258" />
-    <state width="1628" height="133" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1593683023584" />
+    <state width="814" height="243" key="GridCell.Tab.0.center/0.23.1680.951@0.23.1680.951" timestamp="1593919878134" />
+    <state width="1628" height="345" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1594035585976" />
+    <state width="1628" height="219" key="GridCell.Tab.0.center/0.23.1680.954@0.23.1680.954" timestamp="1594036686623" />
+    <state width="1628" height="214" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1593961186643" />
     <state width="1628" height="133" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1593682687745" />
     <state width="1628" height="210" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
@@ -1407,16 +796,16 @@
     <state width="1628" height="84" key="GridCell.Tab.0.center/1680.23.1080.787/0.23.1680.954@0.23.1680.954" timestamp="1592733265641" />
     <state width="1628" height="220" key="GridCell.Tab.0.center/1680.23.1280.937/0.23.1680.949@0.23.1680.949" timestamp="1592911154542" />
     <state width="1628" height="167" key="GridCell.Tab.0.center/1680.23.1536.1129/0.23.1680.952@0.23.1680.952" timestamp="1593484057643" />
-    <state width="1628" height="110" key="GridCell.Tab.0.left" timestamp="1593692014066">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1628" height="219" key="GridCell.Tab.0.left" timestamp="1594036686623">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="234" key="GridCell.Tab.0.left/0.23.1680.948@0.23.1680.948" timestamp="1593685264315" />
+    <state width="1628" height="243" key="GridCell.Tab.0.left/0.23.1680.948@0.23.1680.948" timestamp="1593918696976" />
     <state width="1628" height="93" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1593247475457" />
     <state width="1628" height="171" key="GridCell.Tab.0.left/0.23.1680.950@0.23.1680.950" timestamp="1592103464075" />
-    <state width="1628" height="464" key="GridCell.Tab.0.left/0.23.1680.951@0.23.1680.951" timestamp="1593672414087" />
-    <state width="1628" height="110" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1593692014066" />
-    <state width="1628" height="234" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1593687605258" />
-    <state width="1628" height="133" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1593683023584" />
+    <state width="814" height="243" key="GridCell.Tab.0.left/0.23.1680.951@0.23.1680.951" timestamp="1593919878133" />
+    <state width="1628" height="345" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1594035585976" />
+    <state width="1628" height="219" key="GridCell.Tab.0.left/0.23.1680.954@0.23.1680.954" timestamp="1594036686623" />
+    <state width="1628" height="214" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1593961186643" />
     <state width="1628" height="133" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1593682687745" />
     <state width="1628" height="210" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1591442212340" />
     <state width="1628" height="157" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1591435363991" />
@@ -1425,16 +814,16 @@
     <state width="1628" height="84" key="GridCell.Tab.0.left/1680.23.1080.787/0.23.1680.954@0.23.1680.954" timestamp="1592733265641" />
     <state width="1628" height="220" key="GridCell.Tab.0.left/1680.23.1280.937/0.23.1680.949@0.23.1680.949" timestamp="1592911154541" />
     <state width="1628" height="167" key="GridCell.Tab.0.left/1680.23.1536.1129/0.23.1680.952@0.23.1680.952" timestamp="1593484057643" />
-    <state width="1628" height="110" key="GridCell.Tab.0.right" timestamp="1593692014067">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state width="1628" height="219" key="GridCell.Tab.0.right" timestamp="1594036686623">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
-    <state width="1628" height="234" key="GridCell.Tab.0.right/0.23.1680.948@0.23.1680.948" timestamp="1593685264317" />
+    <state width="1628" height="243" key="GridCell.Tab.0.right/0.23.1680.948@0.23.1680.948" timestamp="1593918696977" />
     <state width="1628" height="93" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1593247475458" />
     <state width="1628" height="171" key="GridCell.Tab.0.right/0.23.1680.950@0.23.1680.950" timestamp="1592103464075" />
-    <state width="1628" height="464" key="GridCell.Tab.0.right/0.23.1680.951@0.23.1680.951" timestamp="1593672414088" />
-    <state width="1628" height="110" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1593692014067" />
-    <state width="1628" height="234" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1593687605259" />
-    <state width="1628" height="133" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1593683023584" />
+    <state width="814" height="243" key="GridCell.Tab.0.right/0.23.1680.951@0.23.1680.951" timestamp="1593919878134" />
+    <state width="1628" height="345" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1594035585976" />
+    <state width="1628" height="219" key="GridCell.Tab.0.right/0.23.1680.954@0.23.1680.954" timestamp="1594036686623" />
+    <state width="1628" height="214" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1593961186644" />
     <state width="1628" height="133" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1593682687746" />
     <state width="1628" height="210" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1591442212341" />
     <state width="1628" height="157" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1591435363992" />
@@ -1443,53 +832,55 @@
     <state width="1628" height="84" key="GridCell.Tab.0.right/1680.23.1080.787/0.23.1680.954@0.23.1680.954" timestamp="1592733265641" />
     <state width="1628" height="220" key="GridCell.Tab.0.right/1680.23.1280.937/0.23.1680.949@0.23.1680.949" timestamp="1592911154542" />
     <state width="1628" height="167" key="GridCell.Tab.0.right/1680.23.1536.1129/0.23.1680.952@0.23.1680.952" timestamp="1593484057643" />
-    <state width="1628" height="215" key="GridCell.Tab.1.bottom" timestamp="1593685119215">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state width="1628" height="276" key="GridCell.Tab.1.bottom" timestamp="1594027199570">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="215" key="GridCell.Tab.1.bottom/0.23.1680.948@0.23.1680.948" timestamp="1593685119215" />
     <state width="1628" height="287" key="GridCell.Tab.1.bottom/0.23.1680.949@0.23.1680.949" timestamp="1593247307288" />
     <state width="1628" height="287" key="GridCell.Tab.1.bottom/0.23.1680.951@0.23.1680.951" timestamp="1593260786324" />
-    <state width="1628" height="183" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1593678407520" />
-    <state width="1628" height="184" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1593595916474" />
+    <state width="1628" height="276" key="GridCell.Tab.1.bottom/0.23.1680.952@0.23.1680.952" timestamp="1594027199570" />
+    <state width="1628" height="277" key="GridCell.Tab.1.bottom/0.23.1680.954@0.23.1680.954" timestamp="1593838441015" />
     <state width="1628" height="184" key="GridCell.Tab.1.bottom/0.23.1680.956@0.23.1680.956" timestamp="1593586741716" />
     <state width="1628" height="287" key="GridCell.Tab.1.bottom/0.23.1680.958@0.23.1680.958" timestamp="1593580906721" />
-    <state width="1628" height="215" key="GridCell.Tab.1.center" timestamp="1593685119215">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state width="1628" height="276" key="GridCell.Tab.1.center" timestamp="1594027199570">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="215" key="GridCell.Tab.1.center/0.23.1680.948@0.23.1680.948" timestamp="1593685119215" />
     <state width="1628" height="287" key="GridCell.Tab.1.center/0.23.1680.949@0.23.1680.949" timestamp="1593247307287" />
     <state width="1628" height="287" key="GridCell.Tab.1.center/0.23.1680.951@0.23.1680.951" timestamp="1593260786323" />
-    <state width="1628" height="183" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1593678407520" />
-    <state width="1628" height="184" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1593595916473" />
+    <state width="1628" height="276" key="GridCell.Tab.1.center/0.23.1680.952@0.23.1680.952" timestamp="1594027199570" />
+    <state width="1628" height="277" key="GridCell.Tab.1.center/0.23.1680.954@0.23.1680.954" timestamp="1593838441015" />
     <state width="1628" height="184" key="GridCell.Tab.1.center/0.23.1680.956@0.23.1680.956" timestamp="1593586741715" />
     <state width="1628" height="287" key="GridCell.Tab.1.center/0.23.1680.958@0.23.1680.958" timestamp="1593580906720" />
-    <state width="1628" height="215" key="GridCell.Tab.1.left" timestamp="1593685119214">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state width="1628" height="276" key="GridCell.Tab.1.left" timestamp="1594027199569">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="215" key="GridCell.Tab.1.left/0.23.1680.948@0.23.1680.948" timestamp="1593685119214" />
     <state width="1628" height="287" key="GridCell.Tab.1.left/0.23.1680.949@0.23.1680.949" timestamp="1593247307287" />
     <state width="1628" height="287" key="GridCell.Tab.1.left/0.23.1680.951@0.23.1680.951" timestamp="1593260786323" />
-    <state width="1628" height="183" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1593678407520" />
-    <state width="1628" height="184" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1593595916473" />
+    <state width="1628" height="276" key="GridCell.Tab.1.left/0.23.1680.952@0.23.1680.952" timestamp="1594027199569" />
+    <state width="1628" height="277" key="GridCell.Tab.1.left/0.23.1680.954@0.23.1680.954" timestamp="1593838441015" />
     <state width="1628" height="184" key="GridCell.Tab.1.left/0.23.1680.956@0.23.1680.956" timestamp="1593586741715" />
     <state width="1628" height="287" key="GridCell.Tab.1.left/0.23.1680.958@0.23.1680.958" timestamp="1593580906720" />
-    <state width="1628" height="215" key="GridCell.Tab.1.right" timestamp="1593685119215">
-      <screen x="0" y="23" width="1680" height="948" />
+    <state width="1628" height="276" key="GridCell.Tab.1.right" timestamp="1594027199570">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state width="1628" height="215" key="GridCell.Tab.1.right/0.23.1680.948@0.23.1680.948" timestamp="1593685119215" />
     <state width="1628" height="287" key="GridCell.Tab.1.right/0.23.1680.949@0.23.1680.949" timestamp="1593247307288" />
     <state width="1628" height="287" key="GridCell.Tab.1.right/0.23.1680.951@0.23.1680.951" timestamp="1593260786324" />
-    <state width="1628" height="183" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1593678407520" />
-    <state width="1628" height="184" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1593595916473" />
+    <state width="1628" height="276" key="GridCell.Tab.1.right/0.23.1680.952@0.23.1680.952" timestamp="1594027199570" />
+    <state width="1628" height="277" key="GridCell.Tab.1.right/0.23.1680.954@0.23.1680.954" timestamp="1593838441015" />
     <state width="1628" height="184" key="GridCell.Tab.1.right/0.23.1680.956@0.23.1680.956" timestamp="1593586741715" />
     <state width="1628" height="287" key="GridCell.Tab.1.right/0.23.1680.958@0.23.1680.958" timestamp="1593580906721" />
-    <state x="325" y="182" key="IDE.errors.dialog" timestamp="1593676309836">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state x="325" y="182" key="IDE.errors.dialog" timestamp="1594000437278">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
+    <state x="325" y="181" key="IDE.errors.dialog/0.23.1680.948@0.23.1680.948" timestamp="1593916977466" />
     <state x="325" y="181" key="IDE.errors.dialog/0.23.1680.949@0.23.1680.949" timestamp="1593229627519" />
-    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.952@0.23.1680.952" timestamp="1593676309836" />
-    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.954@0.23.1680.954" timestamp="1593653651776" />
-    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.956@0.23.1680.956" timestamp="1593657846352" />
+    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.951@0.23.1680.951" timestamp="1593919861048" />
+    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.952@0.23.1680.952" timestamp="1593766808991" />
+    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.954@0.23.1680.954" timestamp="1593758654289" />
+    <state x="325" y="182" key="IDE.errors.dialog/0.23.1680.956@0.23.1680.956" timestamp="1594000437278" />
     <state x="325" y="181" key="IDE.errors.dialog/1680.23.1080.787/0.23.1680.949@0.23.1680.949" timestamp="1592725465277" />
     <state x="755" y="141" key="RollbackChangesDialog" timestamp="1593258014496">
       <screen x="0" y="23" width="1680" height="951" />
@@ -1500,21 +891,21 @@
     <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.952@0.23.1680.952" timestamp="1593158141121" />
     <state x="755" y="141" key="RollbackChangesDialog/0.23.1680.954@0.23.1680.954" timestamp="1591604871205" />
     <state x="755" y="142" key="RollbackChangesDialog/0.23.1680.956@0.23.1680.956" timestamp="1591955895559" />
-    <state x="147" y="23" key="SettingsEditor" timestamp="1593525342759">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state x="86" y="23" key="SettingsEditor" timestamp="1594028091929">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="103" y="23" key="SettingsEditor/0.23.1680.949@0.23.1680.949" timestamp="1593133149298" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.950@0.23.1680.950" timestamp="1592096234480" />
     <state x="103" y="23" key="SettingsEditor/0.23.1680.951@0.23.1680.951" timestamp="1593486475118" />
-    <state x="86" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1593519842373" />
-    <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1593520804747" />
-    <state x="147" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1593525342759" />
-    <state x="352" y="187" key="Vcs.Push.Dialog.v2" timestamp="1592386662329">
+    <state x="86" y="23" key="SettingsEditor/0.23.1680.952@0.23.1680.952" timestamp="1594028091929" />
+    <state x="103" y="23" key="SettingsEditor/0.23.1680.954@0.23.1680.954" timestamp="1593956632570" />
+    <state x="147" y="23" key="SettingsEditor/0.23.1680.956@0.23.1680.956" timestamp="1594021806203" />
+    <state x="352" y="187" key="Vcs.Push.Dialog.v2" timestamp="1593692660767">
       <screen x="0" y="23" width="1680" height="952" />
     </state>
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.949@0.23.1680.949" timestamp="1592301294359" />
     <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.950@0.23.1680.950" timestamp="1592040501027" />
-    <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1592386662329" />
+    <state x="352" y="187" key="Vcs.Push.Dialog.v2/0.23.1680.952@0.23.1680.952" timestamp="1593692660767" />
     <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.954@0.23.1680.954" timestamp="1591782919011" />
     <state x="352" y="188" key="Vcs.Push.Dialog.v2/0.23.1680.956@0.23.1680.956" timestamp="1591500411369" />
     <state x="577" y="272" key="chooseDestDirectoryDialog" timestamp="1592818743844">
@@ -1547,42 +938,74 @@
       <screen x="0" y="23" width="1680" height="950" />
     </state>
     <state width="513" height="438" key="documentation.popup.size/0.23.1680.950@0.23.1680.950" timestamp="1591686248322" />
-    <state x="497" y="205" width="746" height="668" key="find.popup" timestamp="1593507522305">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state x="497" y="205" width="746" height="668" key="find.popup" timestamp="1593946715831">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="497" y="205" width="746" height="668" key="find.popup/0.23.1680.952@0.23.1680.952" timestamp="1593507522305" />
-    <state x="497" y="205" width="746" height="592" key="find.popup/0.23.1680.954@0.23.1680.954" timestamp="1591424075076" />
+    <state x="497" y="205" width="746" height="668" key="find.popup/0.23.1680.954@0.23.1680.954" timestamp="1593946715831" />
     <state x="497" y="205" width="746" height="592" key="find.popup/0.23.1680.956@0.23.1680.956" timestamp="1591179878903" />
     <state x="738" y="416" key="git4idea.ui.GitResetDialog" timestamp="1591498966348">
       <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="738" y="416" key="git4idea.ui.GitResetDialog/0.23.1680.954@0.23.1680.954" timestamp="1591498966348" />
-    <state x="36" y="23" width="788" height="788" key="new project wizard" timestamp="1593519839561">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state x="36" y="23" width="788" height="830" key="new project wizard" timestamp="1593956630075">
+      <screen x="0" y="23" width="1680" height="954" />
     </state>
     <state x="36" y="23" key="new project wizard/0.23.1680.949@0.23.1680.949" timestamp="1593133147568" />
     <state x="36" y="23" key="new project wizard/0.23.1680.950@0.23.1680.950" timestamp="1592096232815" />
     <state x="438" y="120" width="788" height="788" key="new project wizard/0.23.1680.951@0.23.1680.951" timestamp="1593475456951" />
-    <state x="36" y="23" key="new project wizard/0.23.1680.952@0.23.1680.952" timestamp="1593519839561" />
-    <state x="36" y="23" key="new project wizard/0.23.1680.954@0.23.1680.954" timestamp="1591839238792" />
+    <state x="272" y="66" width="788" height="830" key="new project wizard/0.23.1680.952@0.23.1680.952" timestamp="1593694206969" />
+    <state x="36" y="23" key="new project wizard/0.23.1680.954@0.23.1680.954" timestamp="1593956630075" />
     <state x="36" y="23" key="new project wizard/0.23.1680.956@0.23.1680.956" timestamp="1591498393200" />
     <state x="421" y="225" key="run.anything.popup" timestamp="1593222953859">
       <screen x="0" y="23" width="1680" height="949" />
     </state>
     <state x="421" y="225" key="run.anything.popup/0.23.1680.949@0.23.1680.949" timestamp="1593222953859" />
-    <state x="480" y="23" width="838" height="952" key="search.everywhere.popup" timestamp="1593677450670">
-      <screen x="0" y="23" width="1680" height="952" />
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup" timestamp="1593954027610">
+      <screen x="0" y="23" width="1680" height="956" />
     </state>
-    <state x="480" y="23" width="838" height="172" key="search.everywhere.popup/0.23.1680.948@0.23.1680.948" timestamp="1593663199756" />
+    <state x="480" y="23" width="838" height="172" key="search.everywhere.popup/0.23.1680.948@0.23.1680.948" timestamp="1593914519847" />
     <state x="480" y="23" width="838" height="949" key="search.everywhere.popup/0.23.1680.949@0.23.1680.949" timestamp="1593071353034" />
     <state x="480" y="23" width="838" height="950" key="search.everywhere.popup/0.23.1680.950@0.23.1680.950" timestamp="1592038589737" />
-    <state x="480" y="23" width="838" height="173" key="search.everywhere.popup/0.23.1680.951@0.23.1680.951" timestamp="1593672912241" />
-    <state x="480" y="23" width="838" height="952" key="search.everywhere.popup/0.23.1680.952@0.23.1680.952" timestamp="1593677450670" />
-    <state x="480" y="23" width="838" height="954" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1593522998007" />
-    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1591776822855" />
+    <state x="480" y="23" width="838" height="173" key="search.everywhere.popup/0.23.1680.951@0.23.1680.951" timestamp="1593737568047" />
+    <state x="480" y="23" width="838" height="952" key="search.everywhere.popup/0.23.1680.952@0.23.1680.952" timestamp="1593870904463" />
+    <state x="480" y="23" width="838" height="954" key="search.everywhere.popup/0.23.1680.954@0.23.1680.954" timestamp="1593944861980" />
+    <state x="480" y="23" width="838" height="1032" key="search.everywhere.popup/0.23.1680.956@0.23.1680.956" timestamp="1593954027610" />
     <state x="480" y="23" width="838" height="1035" key="search.everywhere.popup/0.23.1680.958@0.23.1680.958" timestamp="1591442369766" />
     <state x="480" y="23" key="search.everywhere.popup/0.23.1680.960@0.23.1680.960" timestamp="1591182709010" />
     <state x="480" y="23" width="838" height="949" key="search.everywhere.popup/1680.23.1280.937/0.23.1680.949@0.23.1680.949" timestamp="1592909141219" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/src.zip!/java/nio/ByteBuffer.java</url>
+          <line>578</line>
+          <properties class="java.nio.ByteBuffer" method="put">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/src.zip!/java/nio/channels/ServerSocketChannel.java</url>
+          <line>268</line>
+          <properties class="java.nio.channels.ServerSocketChannel" method="accept">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java</url>
+          <line>133</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_251.jdk/Contents/Home/src.zip!/java/nio/HeapByteBuffer.java</url>
+          <line>171</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/basic$Test__5_.ic" NAME="Test (5) Coverage Results" MODIFIED="1591954664208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

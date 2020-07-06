@@ -30,6 +30,7 @@ class Number implements Runnable {
     @Override
     public void run() {
         while (true) {
+
             synchronized (this) {
                 notify();
                 if (num <= 100) {
