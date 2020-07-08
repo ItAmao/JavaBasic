@@ -14,4 +14,11 @@ public class Coder extends Person {
     public void eat() {
         System.out.println("阿毛在吃饭");
     }
+
+    public Coder() {
+    }
+
+    public Coder(String name, int age) {
+        super(name, age);
+    }
 }
